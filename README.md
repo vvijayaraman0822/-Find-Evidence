@@ -7,5 +7,5 @@
 - There are 4 types of Analyzers to choose from
   namely DNA, Fiber, Blood and FingerPrint. The data gets read in from an input file that sets the size of the 
   picture grid. The user gets to choose the type of analyzer he/she wishes to play and the goal is to guess correctly
-  two secret loctions hidden. Hints will be provided accordingly to assist the user
+  two secret loctions hidden. Hints will be provided accordingly to assist the user. 
 
